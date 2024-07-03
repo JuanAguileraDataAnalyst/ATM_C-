@@ -1,0 +1,15 @@
+C:\Users\juana\source\repos\Tutorial\07_ATM2\obj\Debug\net8.0\07_ATM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juana\source\repos\Tutorial\07_ATM2\obj\Debug\net8.0\07_ATM2.AssemblyInfoInputs.cache
+C:\Users\juana\source\repos\Tutorial\07_ATM2\obj\Debug\net8.0\07_ATM2.AssemblyInfo.cs
+C:\Users\juana\source\repos\Tutorial\07_ATM2\obj\Debug\net8.0\07_ATM2.csproj.CoreCompileInputs.cache
+C:\Users\juana\source\repos\Tutorial\07_ATM2\obj\Debug\net8.0\07_ATM2.sourcelink.json
+C:\Users\juana\source\repos\Tutorial\07_ATM2\bin\Debug\net8.0\07_ATM2.exe
+C:\Users\juana\source\repos\Tutorial\07_ATM2\bin\Debug\net8.0\07_ATM2.deps.json
+C:\Users\juana\source\repos\Tutorial\07_ATM2\bin\Debug\net8.0\07_ATM2.runtimeconfig.json
+C:\Users\juana\source\repos\Tutorial\07_ATM2\bin\Debug\net8.0\07_ATM2.dll
+C:\Users\juana\source\repos\Tutorial\07_ATM2\bin\Debug\net8.0\07_ATM2.pdb
+C:\Users\juana\source\repos\Tutorial\07_ATM2\obj\Debug\net8.0\07_ATM2.dll
+C:\Users\juana\source\repos\Tutorial\07_ATM2\obj\Debug\net8.0\refint\07_ATM2.dll
+C:\Users\juana\source\repos\Tutorial\07_ATM2\obj\Debug\net8.0\07_ATM2.pdb
+C:\Users\juana\source\repos\Tutorial\07_ATM2\obj\Debug\net8.0\07_ATM2.genruntimeconfig.cache
+C:\Users\juana\source\repos\Tutorial\07_ATM2\obj\Debug\net8.0\ref\07_ATM2.dll
